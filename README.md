@@ -1,4 +1,4 @@
-- 👋 Hi, welcome to my github
+- 👋 Hi
 
 <!---
 - 👋 Hi, I’m @worasuch
